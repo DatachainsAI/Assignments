@@ -8,11 +8,11 @@ Welcome to the **Assignments** repository.
 - Make sure all files are clearly named and organized.  
 
 ## Folder Structure
-assignments/
+assignment
 │
-├── Student1_Name/
-├── Student2_Name/
-└── Student3_Name/
+├── Student1_Name
+├── Student2_Name
+└── Student3_Name
 
 ## Notes
 - Only upload your files inside your own folder.  
