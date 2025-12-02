@@ -1,0 +1,80 @@
+Question,Model Response,Label (Fill later)
+What documents must be collected before activating a customer relationship?,"According to the Customer Identification Program (CIP) in the Know Your Customer (KYC) Policy, the Bank shall obtain and verify customer identity using officially valid documents, proof of address, and PAN where applicable before activating any relationship. 
+
+So, the documents to be collected are:
+
+1. Officially valid documents
+2. Proof of address
+3. PAN (where applicable)",Pending
+How are customers categorized based on risk level?,Not enough information.,Pending
+How often must KYC information be refreshed for high-risk customers?,"According to the context, High-risk customers, including PEPs and HNIs, must have their KYC information refreshed every year.",Pending
+What are examples of unusual transaction behaviour that must be monitored?,"According to the provided context, red flags, which are essentially examples of unusual transaction behavior, include:
+
+1. Repetitive round-amount transfers
+2. Lack of clear economic purpose
+3. Sudden activity in dormant accounts
+4. Reluctance to provide KYC (Know Your Customer) updates.",Pending
+How long must KYC records be retained after the end of a customer relationship?,"According to Record Retention (section 4 of the document), KYC records and related documents must be maintained for a minimum of five (5) years after the end of the customer relationship.",Pending
+What are common methods of money laundering mentioned in the policy?,"According to the provided policy, common money laundering methods include:
+
+1. Structuring/Smurfing
+2. Trade-based money laundering
+3. The use of third-party or mule accounts.",Pending
+What are examples of AML red flag indicators?,"The red flag indicators for Anti-Money Laundering (AML) include:
+
+1. Repetitive round-amount transfers
+2. Lack of clear economic purpose
+3. Sudden activity in dormant accounts
+4. Reluctance to provide KYC updates",Pending
+When must a Suspicious Transaction Report (STR) be filed?,"A Suspicious Transaction Report (STR) shall be filed when activity appears suspicious, irrespective of value.",Pending
+At what threshold must a Cash Transaction Report (CTR) be filed?,"At the threshold of INR 50,00,000 in a calendar month for a customer, a Cash Transaction Report (CTR) is required to be filed.",Pending
+What customer behaviour may indicate reluctance to comply with AML requirements?,"Reluctance to provide KYC updates is a red flag indicator mentioned in the document. 
+
+Customer behaviour may also indicate reluctance to comply with AML requirements, such as:
+
+- Sudden activity in dormant accounts
+- Lack of clear economic purpose
+- Repetitive round-amount transfers",Pending
+What factors contribute to the customer risk score?,"The factors that contribute to the customer risk score are:
+
+1. Customer type
+2. Geography
+3. Product profile
+4. Transaction behavior
+5. Watchlist screening results",Pending
+What transaction conditions trigger an alert?,"A single cash transaction exceeding INR 10,00,000 or multiple related transactions exceeding INR 50,00,000 in a month trigger an alert.",Pending
+What escalation workflow is followed for alerts?,"According to the document, the escalation workflow for alerts is:
+
+1. Level 1 Analyst review
+2. Level 2 Senior Analyst/Team Lead review
+3. Final disposition by the Compliance Officer",Pending
+Who makes the final disposition in the alert review process?,The Compliance Officer makes the final disposition in the alert review process.,Pending
+What is the required timeline for submitting an STR once suspicion is confirmed?,The required timeline for submitting an Suspicious Transaction Report (STR) once suspicion is confirmed is within seven (7) business days.,Pending
+What criteria determine whether a customer is considered high risk?,"According to the Customer Risk Rules & Scoring Framework, the customer risk score is derived from factors including:
+
+1. Customer type
+2. Geography
+3. Product profile
+4. Transaction behaviour
+5. Watchlist screening results
+
+Not all specific criteria are mentioned, but these factors generally contribute to the risk score, which indicates a customer's risk level.",Pending
+When does enhanced due diligence apply?,Not enough information.,Pending
+What transaction patterns could indicate structuring or smurfing?,"According to the provided internal compliance document, potential transaction patterns that could indicate structuring or smurfing are not explicitly mentioned. However, it does mention that repetitive round-amount transfers are a red flag indicator.
+
+But the text does provide information on structuring/smurfing under the ""Overview of AML Typologies"" section. According to this, common money laundering methods include structuring/smurfing.",Pending
+What behaviour might require escalation even if monetary thresholds are not crossed?,"Not enough information. 
+
+However, based on the context provided, the following behaviors are identified as red flags:
+
+- Repetitive round-amount transfers
+- Lack of clear economic purpose
+- Sudden activity in dormant accounts
+- Reluctance to provide KYC updates
+
+These red flags might require escalation even if monetary thresholds are not crossed.",Pending
+How does transaction monitoring relate to customer risk scoring?,"Transaction monitoring rules are mentioned in the context of customer risk scoring framework. This implies that transaction behaviour is a factor considered in customer risk scoring. 
+
+Transaction monitoring helps identify unusual transactions which could contribute to a higher risk score of a customer based on factors such as transaction amount and type. 
+
+Therefore, transaction monitoring is directly related to customer risk scoring as it helps in deriving the customer risk score, which is a factor mentioned in the customer risk scoring framework.",Pending
