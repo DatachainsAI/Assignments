@@ -1,0 +1,59 @@
+RAG EVALUATION RESULTS
+================================================================================
+
+Question 1: What is the main cause of climate change since the 1800s?
+Prompt Type: Strict RAG
+Answer: Human activities, primarily the burning of fossil fuels like coal, oil, and gas, are the main cause of climate change since the 1800s.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 1: What is the main cause of climate change since the 1800s?
+Prompt Type: Medium RAG
+Answer: The main cause of climate change since the 1800s is human activities, primarily the burning of fossil fuels like coal, oil, and gas.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 1: What is the main cause of climate change since the 1800s?
+Prompt Type: Loose
+Answer: The main cause of climate change since the 1800s is human activities, especially the burning of fossil fuels like coal, oil, and gas, which increases greenhouse gas concentrations in the atmosphere.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 2: How much has the global average temperature increased?
+Prompt Type: Strict RAG
+Answer: The global average temperature has increased by approximately 1.1°C since pre-industrial times.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 2: How much has the global average temperature increased?
+Prompt Type: Medium RAG
+Answer: The global average temperature has increased by approximately **1.1°C** since pre-industrial times.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 2: How much has the global average temperature increased?
+Prompt Type: Loose
+Answer: The global average temperature has increased by **approximately 1.1°C** since pre-industrial times.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 3: What is the global population in 2025?
+Prompt Type: Strict RAG
+Answer: Not found in context.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 3: What is the global population in 2025?
+Prompt Type: Medium RAG
+Answer: Not found in context.
+Hallucination: No ✅
+--------------------------------------------------------------------------------
+
+Question 3: What is the global population in 2025?
+Prompt Type: Loose
+Answer: The context you provided doesn’t state the 2025 global population, and I don’t have real-time access to current census data.  
+
+However, based on UN World Population Prospects projections made before 2025, the estimated world population in 2025 is about **8.1 billion people**.
+Hallucination: Yes ⚠️
+--------------------------------------------------------------------------------
+
